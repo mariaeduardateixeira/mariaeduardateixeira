@@ -1,6 +1,6 @@
 ### Hello! I'm Maria! 👋
 
-- 🔭 I’m currently working on Betha Sistemas
+- 🔭 I’m currently looking for an opportunity to work as a Front-end developer.
 - 🌱 I’m currently learning Web Development - focusing on HTML5, CSS3, Javascript, Typescript, React and other technologies.
 
 ##
